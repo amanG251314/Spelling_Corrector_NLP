@@ -5,7 +5,7 @@ With the use of textblob library in Python, we can easily create Machine Learnin
 However, it is possible to use the noisy channel to find candidates for every word the user typed and rank the correction that was probably the user’s original intention
 ******************************************************************************************************************************************
 # Author-
-Aman Patkar
-Aspiring Data scientist
-IIT JAMMU
+Aman Patkar   
+Aspiring Data scientist   
+IIT JAMMU   
 Linked::https://www.linkedin.com/in/aman-patkar-086368159/
